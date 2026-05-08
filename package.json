@@ -21,8 +21,8 @@
     "url": "https://github.com/zaproxy/action-af/issues"
   },
   "dependencies": {
-    "@actions/core": "^1.11.1",
-    "@actions/exec": "^1.1.1"
+    "@actions/core": "^3.0.1",
+    "@actions/exec": "^3.0.0"
   },
   "devDependencies": {
     "@vercel/ncc": "^0.36.1"
